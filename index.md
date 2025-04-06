@@ -1,7 +1,6 @@
 ---
 title: ""
 ---
-# Lucas Gomes
 
 **Location:** Austin, Texas Metropolitan Area  
 **Email:** lucas.gomes@gmail.com  
