@@ -66,12 +66,13 @@ Senior Technical Product Marketing Manager with over 15 years in tech, including
 • Designed and validated reference architectures for ISV onboarding and enablement.  
 • Authored whitepapers and enablement materials for Oracle field teams and technical partners.
 
-**Senior Cloud Consultant / Technologist – Middleware & SaaS**  
-*Oracle | Sep 2013 – Jun 2019*  
+**Senior Cloud Consultant / Technologist – Partner Solutions (Middleware & SaaS)**  
+*Oracle | Dec 2010 – Jun 2018*  
 • Developed Java-based integrations with Oracle Sales Cloud and middleware products using REST/SOAP.  
 • Delivered global enablement sessions for internal teams and ISVs focused on Oracle ADF, MAF, and PaaS tools.  
 • Created technical documentation, sample code, and architecture diagrams to speed up integration.  
 • Wrote and published technical articles and Terraform-focused guides to support partner deployments.
+• Speaker at Oracle Open World presenting demo sessions about web development with WebCenter.
 
 **Earlier Engineering Roles (2002–2010)**  
 *IBM, HP, Nexxera, Brazilian Government (TRE-SC)*  
