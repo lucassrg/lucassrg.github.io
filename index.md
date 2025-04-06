@@ -47,10 +47,9 @@ Senior Technical Product Marketing Manager with over 15 years in tech, including
 **Principal Product Manager – OCI Developer Services / Adoption & Experience**  
 *Oracle | Jan 2021 – Aug 2021*  
 • Helped customers adopt CI/CD, containers, and serverless on Oracle Kubernetes Engine (OKE).  
-• Created Terraform and Ansible automation for GitLab, Helm, and TLS provisioning.  
+• Created Terraform and Ansible automation for GitLab, Helm, and TLS provisioning, and wrote step-by-step guides to help developers securely deploy and configure TLS in production.  
 • Built backend APIs with Java and Node.js to support demo apps and training labs.  
-• Delivered hands-on labs at Oracle Developer Live, showcasing modern app deployment workflows.  
-• Authored tutorials and step-by-step guides for GitLab deployment and secure TLS configuration with Ansible.
+• Delivered hands-on labs at Oracle Developer Live, showcasing modern app deployment workflows.
 
 **Principal Partner Solutions Architect – OCI Marketplace**  
 *Oracle | Jun 2019 – Jan 2021*  
