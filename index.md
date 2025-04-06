@@ -8,12 +8,12 @@ LinkedIn: [linkedin.com/in/lucassrg](https://linkedin.com/in/lucassrg)
 
 ---
 
-### 🧠 Professional Summary
+### 🧠 Professional Summary  
 Senior Technical Product Marketing Manager with over 15 years in tech, including deep experience in cloud infrastructure and developer tooling. I specialize in transforming complex technical capabilities into compelling stories that drive adoption—from live demos and Terraform reference architectures to whitepapers and analyst briefings. I've launched high-impact features, delivered enablement at scale, and created hands-on labs with GenAI and infrastructure-as-code platforms. Known for my collaborative approach and trusted as a technical voice in go-to-market efforts across Engineering, PM, and Sales.
 
 ---
 
-### 🛠 Skills
+### 🛠 Skills  
 **Infrastructure & DevOps:** Terraform, Kitchen-Terraform, Terraform validate, Terraform-compliance, GitHub Actions, GitLab, Docker, Kubernetes, AWS, Oracle Cloud, Vercel  
 **Languages & Frameworks:** Java, Python, Node.js, React, Next.js, Express, Flask, Kotlin  
 **GenAI & AI Tools:** Vercel AI, CrewAI, n8n, ElevenLabs, Ollama, Gemini, Claude, ChatGPT  
@@ -23,12 +23,12 @@ Senior Technical Product Marketing Manager with over 15 years in tech, including
 
 ---
 
-### 🏆 Professional Recognition
+### 🏆 Professional Recognition  
 • Employee of the Month, Okta PMM Team (Q3 2024) – Recognized for technical content, demos, and analyst briefing success.
 
 ---
 
-### 💼 Professional Experience
+### 💼 Professional Experience  
 
 **Sr. Technical Product Marketing Manager**  
 *Okta | Aug 2021 – Present*  
@@ -71,7 +71,7 @@ Senior Technical Product Marketing Manager with over 15 years in tech, including
 • Developed Java-based integrations with Oracle Sales Cloud and middleware products using REST/SOAP.  
 • Delivered global enablement sessions for internal teams and ISVs focused on Oracle ADF, MAF, and PaaS tools.  
 • Created technical documentation, sample code, and architecture diagrams to speed up integration.  
-• Wrote and published technical articles and Terraform-focused guides to support partner deployments.
+• Wrote and published technical articles and Terraform-focused guides to support partner deployments.  
 • Speaker at Oracle Open World presenting demo sessions about web development with WebCenter.
 
 **Earlier Engineering Roles (2002–2010)**  
