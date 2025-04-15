@@ -24,7 +24,10 @@ Senior Technical Product Marketing Manager with over 15 years in tech, including
 ---
 
 ### 🏆 Professional Recognition  
-• Employee of the Month, Okta PMM Team (Q3 2024) – Recognized for technical content, demos, and analyst briefing success.
+* Employee of the Month, Okta PMM Team (Q3 2024) – Recognized for technical content, demos, and analyst briefing success. 
+* Winner – Okta Company-wide Internal Hackathon (April 2025)
+**Project:** *AI Assistant for Seamless Auth0 Integration*  
+Built an AI assistant using CrewAI agents to analyze codebases, generate step-by-step Auth0 integration guides in Markdown, and produce PR-ready diff files. Chosen as the top project out of 80+ submissions. Also received the **"Love Our Customers" Award**, recognizing alignment with Okta’s core value by delivering a solution that enhances developer experience and accelerates customer onboarding.
 
 ---
 
